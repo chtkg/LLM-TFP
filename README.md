@@ -15,7 +15,7 @@ The LLM-TFP model builds on a BERT-based architecture, adapted for time series d
 Time Dimension (T_d): Set to 288 for 5-minute intervals across 24 hours.
 Optimizer: Ranger21 with a learning rate of 0.0001.
 Training: 25 epochs, batch size of 32.
-See model/LLM_TFP.py for implementation details.
+See model_LLM_TFP.py for implementation details.
 
 Installation
 
