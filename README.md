@@ -18,7 +18,7 @@ Here is an example:
 | 2018/01/01 00:05:00 |   61.0   |   64.0   |   65.0   |    ...   |
 | 2018/01/01 00:10:00 |   63.0   |   65.0   |   60.0   |    ...   |
 |         ...         |    ...   |    ...   |    ...   |    ...   |
-
+Here is an article about [Using HDF5 with Python](https://medium.com/@jerilkuriakose/using-hdf5-with-python-6c5242d08773).
 Model Architecture
 
 The LLM-TFP model builds on a BERT-based architecture, adapted for time series data. Key settings include:
