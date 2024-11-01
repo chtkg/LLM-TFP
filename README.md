@@ -8,6 +8,7 @@ Datasets
 We evaluate the model using two public traffic datasets:
 METR-LA: Traffic data from 207 sensors in Los Angeles, spanning from March to June 2012.
 PEMS-BAY: Data from 325 sensors in the California Bay Area, collected from January to May 2017.
+We provide preprocessed datasets, which you can access:https://drive.google.com/drive/folders/1Gxpk3IPtEJY6TXLMome-suvZIFXq31h_?usp=sharing
 
 Model Architecture
 
